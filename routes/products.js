@@ -4,11 +4,11 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('Prod router!');
+  res.send('NY VERSION');
 });
 
 router.get('/test', (req, res, next) => {
-  res.send('test prod router');
+  res.send('NY VERSION');
 });
 
 module.exports = router;
