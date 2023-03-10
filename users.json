@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "likes": "Odla, Kaniner, långa promenader"
+  },
+  {
+    "name": "Lisa",
+    "id": 2,
+    "password": "2587de9c0b1c6505690820fb6204f833a11473d4c7090dba28a51adac5365b005c91163e167dc610faaeb909188302fd38fe3890985cc9c2348745843e79edc4"
+  },
+  {
+    "name": "Tristan",
+    "id": 3,
+    "password": "01b8beba0ceba367423744804a91ce1cffd10d2cafe9341a2a1c63e899f196615d797e343b1fad7ce3e51981f08c25a80205eb5e35039f15d07585e2656468b6"
+  },
+  {
+    "name": "Ruben",
+    "id": 4,
+    "password": "299f222a5a4bd773db503883cc8ef20e028074b0cd23fb93fe61f4d84efeb9c8aa4c91c472135b938014e9b03848b56fc54378ac9546a56ee58437a3f7ffeba4"
+  },
+  {
+    "name": "Orfeus",
+    "id": 5,
+    "password": "08d25849eb7f666b0b410ec5cfdb7870ebfcdf2ccfebd5519d0fdbc82e4e6665da712d28e61c336c63982563dc63b4a442a0e768284057b376c7bd4dcb1474e4"
+  },
+  {
+    "name": "Rufus",
+    "id": 6,
+    "password": "08d25849eb7f666b0b410ec5cfdb7870ebfcdf2ccfebd5519d0fdbc82e4e6665da712d28e61c336c63982563dc63b4a442a0e768284057b376c7bd4dcb1474e4"
+  }
+]
